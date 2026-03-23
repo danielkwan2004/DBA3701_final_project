@@ -1,0 +1,174 @@
+Arrival_Time,Station,travel_time,station_code
+11:52:42,woodlands north,0:00:00,TE1
+11:54:38,woodlands,0:01:56,TE2
+11:57:10,woodlands south,0:02:32,TE3
+12:01:35,springleaf,0:04:25,TE4
+12:04:38,lentor,0:03:03,TE5
+12:06:57,mayflower,0:02:19,TE6
+12:09:06,bright hill,0:02:09,TE7
+12:11:50,upper thomson,0:02:44,TE8
+12:15:10,caldecott,0:03:20,TE9
+12:18:47,stevens,0:03:37,TE11
+12:21:57,napier,0:03:10,TE12
+12:23:59,orchard boulevard,0:02:02,TE13
+12:26:07,orchard,0:02:08,TE14
+12:28:29,great world,0:02:22,TE15
+12:29:59,havelock,0:01:30,TE16
+12:31:51,outram park,0:01:52,TE17
+12:33:33,maxwell,0:01:42,TE18
+12:35:32,shenton way,0:01:59,TE19
+12:37:21,marina bay,0:01:49,TE20
+12:40:05,gardens by the bay,0:02:44,TE22
+12:43:23,tanjong rhu,0:03:18,TE23
+12:45:28,katong park,0:02:05,TE24
+12:47:40,tanjong katong,0:02:12,TE25
+12:49:33,marine parade,0:01:53,TE26
+12:51:47,marine terrace,0:02:14,TE27
+12:54:07,siglap,0:02:20,TE28
+12:56:17,bayshore,0:02:10,TE29
+13:26:01,marina south pier,0:00:00,NS28
+13:28:10,marina bay,0:02:09,NS27
+13:37:15,raffles place,0:09:05,NS26
+13:39:12,city hall,0:01:57,NS25
+13:41:32,dhoby ghaut,0:02:20,NS24
+13:43:39,somerset,0:02:07,NS23
+13:46:01,(orchard),0:02:22,NS22
+13:48:36,newton,0:02:35,NS21
+13:50:57,novena,0:02:21,NS20
+13:53:23,toa payoh,0:02:26,NS19
+13:55:54,braddell,0:02:31,NS18
+13:58:50,bishan,0:02:56,NS17
+14:01:54,ang mo kio,0:03:04,NS16
+14:04:34,yio chu kang,0:02:40,NS15
+14:09:46,khatib,0:05:12,NS14
+14:11:55,yishun,0:02:09,NS13
+14:15:02,canberra,0:03:07,NS12
+14:17:33,sembawang,0:02:31,NS11
+14:21:20,admiralty,0:03:47,NS10
+14:23:44,(woodlands),0:02:24,NS9
+14:26:07,marsiling,0:02:23,NS8
+14:28:30,kranji,0:02:23,NS7
+14:32:54,yew tee,0:04:24,NS5
+14:36:22,choa chu kang,0:03:28,NS4
+14:40:13,bukit gombak,0:03:51,NS3
+14:42:44,bukit batok,0:02:31,NS2
+14:46:02,jurong east,0:03:18,NS1
+15:14:19,tuas link,0:00:00,EW33
+15:12:09,tuas west road,0:02:10,EW32
+15:09:59,tuas crescent,0:02:10,EW31
+15:07:24,gul circle,0:02:35,EW30
+15:03:33,joo koon,0:03:51,EW29
+14:59:47,pioneer,0:03:46,EW28
+14:57:30,boon lay,0:02:17,EW27
+14:54:47,lakeside,0:02:43,EW26
+14:52:40,chinese garden,0:02:07,EW25
+14:50:30,jurong east,0:02:10,EW24
+15:46:01,clementi,0:55:31,EW23
+15:48:39,dover,0:02:38,EW22
+15:50:51,buona vista,0:02:12,EW21
+15:53:00,commonwealth,0:02:09,EW20
+15:55:19,queenstown,0:02:19,EW19
+15:57:43,redhill,0:02:24,EW18
+16:00:17,tiong bahru,0:02:34,EW17
+16:03:17,(outram park),0:03:00,EW16
+16:05:27,tanjong pagar,0:02:10,EW15
+16:07:45,(raffles place),0:02:18,EW14
+16:10:15,(city hall),0:02:30,EW13
+16:12:32,bugis,0:02:17,EW12
+16:14:52,lavender,0:02:20,EW11
+16:16:59,kallang,0:02:07,EW10
+16:19:44,aljunied,0:02:45,EW9
+16:22:07,paya lebar,0:02:23,EW8
+16:24:32,eunos,0:02:25,EW7
+16:26:29,kembangan,0:01:57,EW6
+16:29:09,bedok,0:02:40,EW5
+16:33:23,tanah merah,0:04:14,EW4
+16:37:18,simei,0:03:55,EW3
+16:40:01,tampines,0:02:43,EW2
+16:44:30,pasir ris,0:04:29,EW1
+17:01:58,(tanah merah),0:00:00,CG0
+17:04:23,expo,0:02:25,CG1
+17:10:33,changi airport,0:06:10,CG2
+17:20:06,(expo),0:00:00,DT35
+17:21:27,upper changi,0:01:21,DT34
+17:24:57,tampines east,0:03:30,DT33
+17:27:01,(tampines),0:02:04,DT32
+17:29:25,tampines west,0:02:24,DT31
+17:31:48,bedok reservoir,0:02:23,DT30
+17:34:10,bedok north,0:02:22,DT29
+17:36:20,kaki bukit,0:02:10,DT28
+17:37:59,ubi,0:01:39,DT27
+17:39:45,macpherson,0:01:46,DT26
+17:41:55,mattar,0:02:10,DT25
+17:44:17,geylang bahru,0:02:22,DT24
+17:46:24,bendemeer,0:02:07,DT23
+17:48:20,jalan besar,0:01:56,DT22
+17:49:57,bencoolen,0:01:37,DT21
+17:51:43,fort canning,0:01:46,DT20
+17:53:54,chinatown,0:02:11,DT19
+17:55:31,telok ayer,0:01:37,DT18
+17:57:02,downtown,0:01:31,DT17
+17:58:35,bayfront,0:01:33,DT16
+18:00:46,promenade,0:02:11,DT15
+18:02:44,(bugis),0:01:58,DT14
+18:04:32,rochor,0:01:48,DT13
+18:05:52,little india,0:01:20,DT12
+18:08:14,(newton),0:02:22,DT11
+18:10:39,(stevens),0:02:25,DT10
+18:12:52,botanic gardens,0:02:13,DT9
+18:14:57,tan kah kee,0:02:05,DT8
+18:16:56,sixth avenue,0:01:59,DT7
+18:19:06,king albert park,0:02:10,DT6
+18:21:40,beauty world,0:02:34,DT5
+18:23:27,hume,0:01:47,DT4
+18:25:09,hillview,0:01:42,DT3
+18:26:51,cashew,0:01:42,DT2
+18:28:57,bukit panjang,0:02:06,DT1
+19:16:49,(harbourfront),0:00:00,NE1
+19:19:51,(outram park),0:03:02,NE2
+19:21:46,(chinatown),0:01:55,NE3
+19:23:33,clarke quay,0:01:47,NE4
+19:25:50,(dhoby ghaut),0:02:17,NE5
+19:28:01,(little india),0:02:11,NE6
+19:29:58,farrer park,0:01:57,NE7
+19:32:08,boon keng,0:02:10,NE8
+19:34:44,potong pasir,0:02:36,NE9
+19:36:31,woodleigh,0:01:47,NE10
+19:38:41,serangoon,0:02:10,NE11
+19:41:33,kovan,0:02:52,NE12
+19:43:59,hougang,0:02:26,NE13
+19:46:17,buangkok,0:02:18,NE14
+19:48:12,sengkang,0:01:55,NE15
+19:51:08,punggol,0:02:56,NE16
+19:53:47,punggol coast,0:02:39,NE17
+19:13:46,harbourfront,0:00:00,CC29
+19:11:14,telok blangah,0:02:32,CC28
+19:09:23,labrador park,0:01:51,CC27
+19:06:53,pasir panjang,0:02:30,CC26
+19:04:32,haw par villa,0:02:21,CC25
+19:01:35,kent ridge,0:02:57,CC24
+18:59:32,one-north,0:02:03,CC23
+18:57:08,(buona vista),0:02:24,CC22
+18:55:05,holland village,0:02:03,CC21
+18:52:18,farrer road,0:02:47,CC20
+18:50:26,(botanic gardens),0:01:52,CC19
+19:37:11,caldecott,0:04:30,CC17
+19:35:00,marymount,0:02:11,CC16
+19:32:02,(bishan),0:02:58,CC15
+19:29:28,lorong chuan,0:02:34,CC14
+20:32:32,(serangoon),0:01:33,CC13
+20:34:32,bartley,0:02:00,CC12
+20:36:49,tai seng,0:02:17,CC11
+20:40:12,(macpherson),0:03:23,CC10
+20:41:39,(paya lebar),0:01:27,CC9
+20:45:17,dakota,0:03:38,CC8
+20:46:31,mountbatten,0:01:14,CC7
+20:48:42,stadium,0:02:11,CC6
+20:51:11,nicoll highway,0:02:29,CC5
+20:53:10,(promenade),0:01:59,CC4
+20:55:54,esplanade,0:02:44,CC3
+20:58:00,bras basah,0:02:06,CC2
+20:59:28,dhoby ghaut,0:01:28,CC1
+17:58:35,promenade,0:00:00,CE0
+18:00:46,Bayfront,0:02:11,CE1
+18:03:00,Marina Bay,0:02:14,CE2

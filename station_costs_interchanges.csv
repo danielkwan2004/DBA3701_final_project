@@ -1,0 +1,34 @@
+Start time,End time,Station name,travel_time,station_code_1,station_code_2
+,13:19:14,(marina bay),0:06:47,TE20,NS27
+,14:46:02,jurong east,0:04:28,NS1,EW24
+16:56:20,17:01:58,tanah merah,0:05:38,EW4,CG0
+17:15:46,17:20:06,(expo),0:04:20,CG1,DT35
+,18:46:06,(botanic gardens),0:04:20,DT9,CC19
+,19:13:46,harbourfront,0:03:03,NE1,CC29
+,20:09:07,(serangoon),0:05:53,NE12,CC13
+18:59:47,19:01:40,dhoby ghaut,0:01:53,CC1,NS24
+,,woodlands,,NS9,TE2 
+,,Stevens,,DT10,TE11
+,,Newton,,NS21,DT11
+,,Little India,,NE7,DT12
+,,Outram park,,EW16,NE3
+,,Outram park,,EW16,TE17
+,,Outram park,,NE3,TE17
+,,marina bay,,TE20,CE2
+,,marina bay,,NS27,CE2
+,,city hall,,NS25,EW13
+,,raffles place,,NS26,EW14
+,,buona vista,,CC22,EW21
+,,bayfront,,CE1,DT16
+,,promenade,,CE0,CC4
+,,promenade,,CC4,DT15
+,,promenade,,CE0,DT15
+,,bugis,,DT14,EW12
+,,macpherson,,DT26,CC10
+,,dhoby ghaut,,CC1,NE6
+,,dhoby ghaut,,NE6,NS24
+,,orchard,,TE14,NS22
+,,chinatown,,NE4,DT19
+,,tampines,,DT32,EW2
+,,caldecott,,CC17,TE9
+,,paya lebar,,CC9,EW8
