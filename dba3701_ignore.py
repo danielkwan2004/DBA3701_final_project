@@ -42,7 +42,7 @@ for arc in arcs.copy():
 # taken from the dataset that has the timings between stations,
 # including transfer timings
 
-station_timings_coost = pd.read_csv('station_costs.csv')
+station_timings_cost = pd.read_csv('station_costs.csv')
 costs = {
     (1, 2): 4,
     (1, 3): 4,
